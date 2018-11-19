@@ -13,5 +13,9 @@ Let's imagine factory where item is produced whitch is consist of two elements Y
 - <1, S> for processes producing Z,
 - Values M, N, P, R, S i T should be cofigured after start
 
+## Requirements
+- C compiler 
+- Linux or simmilar operating system (with POSIX library)
+
 
 
